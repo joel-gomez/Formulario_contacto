@@ -29,7 +29,7 @@ try {
 
     // Destinatarios 
     $mail->setFrom('joelgomez451@gmail.com',$nombre);
-    $mail->addAddress('joelgomez451@gmail.com');     
+    $mail->addAddress('ivangarcete@gmail.com');     
    
   // Contenido 
     $mail->isHTML(true); //Establecer el formato de correo electrónico en HTML                                
