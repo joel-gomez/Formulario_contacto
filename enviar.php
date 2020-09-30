@@ -23,7 +23,7 @@ try {
     $mail->Host       = 'smtp.gmail.com';                   // Configure el servidor SMTP para enviar a través de usuario SMTP
     $mail->SMTPAuth   = true;                                  // Habilita la autenticación SMTP 
     $mail->Username   = 'joelgomez451@gmail.com';                     // SMTP username
-    $mail->Password   = '4700981joel';                               // SMTP password
+    $mail->Password   = 'clave';                               // SMTP password
     $mail->SMTPSecure = 'tls';        
     $mail->Port       = 587;                                   // Puerto TCP para conectarse
 
